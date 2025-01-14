@@ -1,4 +1,4 @@
-name: github-actions-task-list-checker
+name: hakadoriya-actions-task-list-checker
 # MEMO: Description must be less than 125 characters.
 description: 'A GitHub Action to check if there are not-completed tasks in the Pull-Request body.'
 author: 'hakadoriya'
